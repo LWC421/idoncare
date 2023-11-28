@@ -93,7 +93,6 @@ $ npm run start
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1700651852355?alt=media&token=58682014-4ab0-4954-b92f-802b506d8a71)](https://github.com/msdio/stackticon)
 
 ### FrontEnd
-<!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
 - Node JS
 - React
 - TypeSCript
@@ -130,14 +129,7 @@ $ npm run start
 - REST API 키, Redirect URL, Client Secret 키 생성
 
 ---
-## 화면 구성
 
-## 시연 영상
-
----
-
-## 아키텍쳐
-![Alt text](image.png)
 
 ## 디렉토리 구조
 
