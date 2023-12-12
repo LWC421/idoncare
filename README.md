@@ -1,14 +1,5 @@
 # 아이돈케어 (IDonCare)
 
-<div align="center">
-<img width="329" alt="image" src="https://github.com/wlgns1718/idoncare/assets/113763592/0681f879-0864-481d-8c88-2df24c8cc3bc">
- 
-</div>
-<div align="center">
-</div>
-
-# 아이돈케어 (IDonCare)
-
 > **삼성청년SW아카데미(SSAFY)** <br/> **개발기간: 2023.09.04 ~ 2023.10.06**
 
 ## 배포 주소
